@@ -88,3 +88,4 @@ int main() {
             std::cin >> valinta;
             goto alku; //vie kohtaan alku
         }
+}
